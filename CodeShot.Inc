@@ -203,7 +203,13 @@ szCodeShotInfo              DB 13,10
                             DB "CodeShot x32dbg plugin by fearless 2016 - www.LetTheLight.in",13,10
                             DB 13,10
                             DB "CodeShot Features & Usage:",13,10
-                            DB " - ",13,10  
+                            DB " - Capture x64dbg screen to image file",13,10
+                            DB " - Supports png, jpeg and bmp file formats",13,10
+                            DB " - Option to include address and/or datetime in filename",13,10
+                            DB " - Option to save filename to seperate folder based on module name",13,10
+                            DB " - Optional toolbar with dropdown menu to make it easier to take codeshots",13,10
+                            DB " - Hotkeys for taking codeshot image in specific formats",13,10
+                            DB " - Shutter sound when taking codeshot",13,10
                             DB 13,10,0
                             
 ;---------------------------

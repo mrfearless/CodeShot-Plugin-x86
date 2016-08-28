@@ -276,7 +276,7 @@ plugsetup PROC C PUBLIC USES EBX setupStruct:DWORD
         Invoke _plugin_menuentryseticon, pluginHandle, MENU_CODESHOT_FOLDER, Addr hIconData
     .ENDIF
     
-    Invoke GuiAddLogMessage, Addr szCodeShotLoaded
+    Invoke GuiAddLogMessage, Addr szCodeShotInfo
     
     
     
