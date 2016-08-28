@@ -1,0 +1,8 @@
+#include "Res/OptionsPanel4Dlg.rc"
+#include "Res/OptionsPanel3Dlg.rc"
+#include "Res/OptionsPanel2Dlg.rc"
+#include "Res/OptionsPanel1Dlg.rc"
+#include "Res/CodeShotStr.rc"
+#include "Res/CodeShotDlg.rc"
+#include "Res/CodeShotRes.rc"
+#include "Res/CodeShotVer.rc"
