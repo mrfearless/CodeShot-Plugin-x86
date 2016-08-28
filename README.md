@@ -28,6 +28,7 @@ An overview of the CodeShot options dialog, which includes screenshots, can be f
 
 * Written by [fearless](https://github.com/mrfearless)  - [www.LetTheLight.in](http://www.LetTheLight.in)
 * Created with the [x64dbg Plugin SDK For x86 Assembler](https://github.com/mrfearless/x64dbg-Plugin-SDK-For-x86-Assembler)
+* Uses the [ModernUI](https://github.com/mrfearless/ModernUI) controls for win32 assembler framework
 * A RadASM project (.rap) is used to manage and compile the plugin. The RadASM IDE can be downloaded [here](http://www.softpedia.com/get/Programming/File-Editors/RadASM.shtml)
 * Some plugins make use of the MASM32 SDK found [here](http://www.masm32.com/masmdl.htm)
 
