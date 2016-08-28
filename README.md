@@ -23,6 +23,9 @@ A plugin to capture the x64dbg screen to an image file
 
 ## Information
 
+An overview of the CodeShot options dialog, which includes screenshots, can be found in the wiki [here](https://github.com/mrfearless/CodeShot-Plugin-x86/wiki/CodeShot-Options)
+
+
 * Written by [fearless](https://github.com/mrfearless)  - [www.LetTheLight.in](http://www.LetTheLight.in)
 * Created with the [x64dbg Plugin SDK For x86 Assembler](https://github.com/mrfearless/x64dbg-Plugin-SDK-For-x86-Assembler)
 * A RadASM project (.rap) is used to manage and compile the plugin. The RadASM IDE can be downloaded [here](http://www.softpedia.com/get/Programming/File-Editors/RadASM.shtml)
