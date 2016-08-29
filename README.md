@@ -1,6 +1,7 @@
 # CodeShot Plugin (x86) - A Plugin For x64dbg
 
-![](https://github.com/mrfearless/CodeShot-Plugin-x86/blob/master/images/CodeShot.png) [Current version: 1.0.0.0 - Last updated: 28/08/2016](https://github.com/mrfearless/CodeShot-Plugin-x86/releases/latest) For the x64 version of this plugin, visit [here](https://github.com/mrfearless/CodeShot-Plugin-x64) - Note: still in development
+![](https://github.com/mrfearless/CodeShot-Plugin-x86/blob/master/images/CodeShot.png) [Current version: 1.0.0.0 - Last updated: 28/08/2016](https://github.com/mrfearless/CodeShot-Plugin-x86/releases/latest) 
+Note: still in development, some features may be changed or enhanced at some future point.
 
 ## Overview
 
