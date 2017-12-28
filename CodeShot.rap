@@ -122,7 +122,7 @@ Group=Assembly,Resources,Misc
 13=2
 14=3
 [AutoLoad]
-AutoLoad=1,2,6
+AutoLoad=1,2,6,8
 [RADebugBP]
 2=
 1=
@@ -163,9 +163,9 @@ ProductVer2Range=0
 ProductVer3Range=0
 ProductVer4Range=0
 [PTimer]
-PTimer=119039477
+PTimer=119067448
 [Collapse]
-1=830482432,9568520,545390720,134218126,48
+1=830482432,9568520,545390720,398,48
 8=12,268435456,
 2=
 7=1457214464,
@@ -175,7 +175,7 @@ PTimer=119039477
 4=
 14=
 [Size]
-1=0,0,0,0,9827
+1=0,0,0,0,10072
 8=0,0,0,0,565
 2=0,0,0,0,6084
 7=0,0,0,0,7416
