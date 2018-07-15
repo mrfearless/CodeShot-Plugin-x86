@@ -4,7 +4,7 @@ includelib masm32.lib
 include \masm32\macros\macros.asm
 
 ;-----------------------------------------------------------------------------------------
-; CODESHOT - DateTime LIB Prototypes
+; CODESHOT - DateTime LIB Prototypes 
 ;-----------------------------------------------------------------------------------------
 
 DTDateFormat                    PROTO :DWORD, :DWORD, :DWORD

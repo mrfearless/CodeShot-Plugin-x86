@@ -1,5 +1,5 @@
 ;=====================================================================================
-; x64dbg plugin SDK For Assembler x86 - fearless
+; x64dbg plugin SDK For Assembler x86 - fearless 
 ; https://github.com/mrfearless/x64dbg-Plugin-SDK-for-x86-Assembler
 ;
 ; CodeShot.inc

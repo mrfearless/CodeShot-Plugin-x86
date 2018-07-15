@@ -36,7 +36,7 @@ IniSetExcludeCommandBar             PROTO :DWORD
 
 
 ;**************************************************************************
-;
+; 
 ;**************************************************************************
 IniGetCodeShotsFolder PROC USES EBX lpszCodeShotsFolder:DWORD
 	Invoke GetPrivateProfileString, Addr szCodeShot, Addr szCodeShotsFolder, Addr szColon, lpszCodeShotsFolder, MAX_PATH, Addr CodeShotIni

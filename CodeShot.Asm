@@ -1,7 +1,7 @@
 ;=====================================================================================
 ; x64dbg plugin SDK for Masm - fearless 2016 - www.LetTheLight.in
 ;
-; CodeShot.asm
+; CodeShot.asm 
 ;
 ;-------------------------------------------------------------------------------------
 
@@ -672,7 +672,7 @@ CodeShotOptionsDlgProc PROC hWin:HWND,iMsg:DWORD,wParam:WPARAM, lParam:LPARAM
         ;-----------------------------------------------------------------------------------------------------
         ; ModernUI_CaptionBar & ModernUI style dialog
         ;-----------------------------------------------------------------------------------------------------    
-		Invoke MUIApplyToDialog, hWin, FALSE
+		Invoke MUIApplyToDialog, hWin, FALSE, TRUE
 		
 		; Create CaptionBar control and save handle
 		Invoke MUICaptionBarCreate, hWin, Addr szCSOptionsDlgTitle, 26, IDC_CAPTIONBAR, MUICS_WINNODROPSHADOW + MUICS_NOMAXBUTTON + MUICS_NOMINBUTTON + MUICS_LEFT ;or MUICS_REDCLOSEBUTTON

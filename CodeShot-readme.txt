@@ -11,7 +11,7 @@ About
 -----
 
 CodeShot Plugin (x86) For x64dbg (32bit plugin)
-by fearless - www.LetTheLight.in
+by fearless - www.LetTheLight.in 
 
 Created with the x64dbg Plugin SDK For x86 Assembler
 https://github.com/mrfearless/x64dbg-Plugin-SDK-For-x86-Assembler
