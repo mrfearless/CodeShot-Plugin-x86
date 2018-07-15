@@ -1,5 +1,5 @@
 ;=====================================================================================
-; x64dbg plugin SDK for Masm - fearless 2016 - www.LetTheLight.in
+; x64dbg plugin SDK for Masm - fearless 2016 - www.LetTheLight.in 
 ;
 ; CodeShot.asm 
 ;
